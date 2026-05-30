@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, js, frontend animations, figma**
 
-- 📫 How to reach me **marvaasif00@gmail.com**
+- 📫 How to reach me **marvaasif272@gmail.com**
 
 - ⚡ Fun fact **I'm energetic, love adding humor to everything I do, and secretly believe coffee makes my code run faster! ☕😄**
 
